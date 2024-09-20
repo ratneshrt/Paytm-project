@@ -1,0 +1,8 @@
+node_modules
+.turbo
+apps/bank-webhook/.turbo/
+apps/bank-webhook/dist/
+apps/merchant-app/.next/
+apps/merchant-app/.turbo/
+apps/user-app/.next/
+apps/user-app/.turbo/
